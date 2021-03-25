@@ -1,0 +1,12 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahs-mediatheken/semantic-test.git",
+  "author": "Dany Dhondt",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
